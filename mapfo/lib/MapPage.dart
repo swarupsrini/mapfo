@@ -4,7 +4,7 @@ class MapPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: Colors.lightBlue,
+      color: Color.fromRGBO(239, 185, 134, 1.0),
     );
   }
 }

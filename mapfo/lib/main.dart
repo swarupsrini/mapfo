@@ -14,7 +14,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  Widget currentPage = Container();
+  Widget currentPage = HomePage();
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
