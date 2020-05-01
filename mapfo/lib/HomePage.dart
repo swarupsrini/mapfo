@@ -9,7 +9,12 @@ class HomePage extends StatelessWidget {
         SvgPicture.asset('assets/home_design1.svg', color: Color.fromRGBO(239, 185, 134, 1.0)),
         Column(
           children: <Widget>[
-            // SvgPicture.asset('assets/mapfo.svg'),
+            AspectRatio(
+              aspectRatio: 198 / 63,
+              child: Image.asset(
+                'assets/mapfov2.png',
+              ),
+            ),
             Container(
               child: AppBar(
                 shape: RoundedRectangleBorder(
@@ -18,7 +23,7 @@ class HomePage extends StatelessWidget {
                 backgroundColor: Colors.white,
                 title: TextField(),
                 actions: <Widget>[
-                  SvgPicture.asset('asserts/search.svg')
+                  SvgPicture.asset('assets/search.svg')
                 ],
               ),
             ),
