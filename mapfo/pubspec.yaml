@@ -26,3 +26,7 @@ flutter:
     - family: RedHatDisplay
       fonts:
         - asset: fonts/RedHatDisplay-Regular.ttf
+        - asset: fonts/RedHatDisplay-Bold.ttf
+          weight: 700
+        - asset: fonts/RedHatDisplay-Black.ttf
+          weight: 900
