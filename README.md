@@ -10,4 +10,5 @@ In today's world, 10% of our population have access to SMS in the form of mobile
 
 ## Demo
 
-![](https://i.imgur.com/5Be44vZ.png) ![](https://i.imgur.com/sDFeVCp.png) ![](https://i.imgur.com/U7CD3vq.png)
+![](https://i.imgur.com/VKfPuJj.png)
+
