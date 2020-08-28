@@ -11,7 +11,7 @@ In today's world, 10% of our population have access to SMS in the form of mobile
 
 ## Development
 
-Developed in a cross-functional team of 4. Utilized the Flutter framework to build our front-end and the Twilio SMS API that networks between clients and our server.
+Developed in a cross-functional team of 4. Utilizes the Flutter framework to create the front-end and the Twilio SMS API that networks between clients and the server.
 
 ## Demo
 
