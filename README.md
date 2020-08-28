@@ -1,6 +1,7 @@
 # Mapfo
 
-A mobile app providing offline access to essential resources such as directions to local food banks and homeless shelters by using SMS technology.
+A mobile app providing offline access to essential resources such as directions to local food banks and homeless shelters by using SMS technology.  
+Built for the Google Developer Student Club Solutions Challenge 2020.
 
 ## Tech
 `Flutter`
